@@ -1,0 +1,26 @@
+/* .justify-content-end{
+    display: flex;
+} */
+
+.Main-Nav{
+    background: transparent;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    background-color: aqua;
+    font-weight: 400;
+            
+                   
+}
+
+
+.Brand{
+    /* color: blue;  */
+    
+}
+.Nav-href{
+    font-weight: 400;
+}
